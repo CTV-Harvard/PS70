@@ -29,6 +29,22 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.writeup {
+	color: black;
+	margins: auto;
+	padding: 0em 10em;
+}
+
+.inset {
+	display: block;
+	margins: auto;
+	align-content: center;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 2em;
+}
+
+
 body {
 	line-height: 1;
 }
